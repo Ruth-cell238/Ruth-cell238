@@ -1,0 +1,4 @@
+ruth has 2 pets. Those pet's names are: doegl, hogi.
+
+doegl is a br br and is None years old.
+hogi is a black dog and is None years old.
